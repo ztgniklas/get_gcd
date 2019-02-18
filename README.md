@@ -1,5 +1,5 @@
-### 本程序是求位数较多（如1000位）的两个正整数的最大公约数。
+### Basic implementation of getting the greatest greatest common divisor of two big integers (1000 digits) using C
 
-#### 基本原理是辗转相除法。
+#### For educational use (cryptography)
 
-#### 由于时间仓促，这个程序很简陋，有诸多局限性和漏洞，如输入的两个数必须第一个大第二个小等等。
+
